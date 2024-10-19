@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lokeshkumardl
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Computer Vision and Reinforcement Learning 
-- 💞️ I’m looking to collaborate on CV, NLP and Gaming usecases 
+- 👀 I am Lead Data Scientist 
+- 🌱 Expert in NLP, Computer Vision and Reinforcement Learning 
+- 💞️ I am looking forward to connect with folks working in Generative AI 
 - 📫 How to reach me 
 
 <!---
